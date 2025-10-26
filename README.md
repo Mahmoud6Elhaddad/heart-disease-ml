@@ -20,7 +20,7 @@ to predict the presence of heart disease based on patient data.
 | Decision Tree       | 0.777    |
 
 ## 🧩 Files Structure
-
+```bash
 heart-disease-ml/
 │
 ├── data/
@@ -35,7 +35,7 @@ heart-disease-ml/
 ├── heart_disease.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 ## 🚀 How to Run
 
 1. Clone the repo  
